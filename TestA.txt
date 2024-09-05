@@ -1,3 +1,4 @@
 Line 1 from local
 Line 2 from local
+Line3 from feature branch
 Line 3 from remote master
